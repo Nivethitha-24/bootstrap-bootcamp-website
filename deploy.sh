@@ -10,7 +10,7 @@ chmod +x build.sh
 
 # Log in to Docker Hub (Ensure credentials are securely stored)
 echo "Logging into Docker Hub..."
-docker login -u nivethitha24 -p nivethitha
+docker login -u nivethitha24 -p Nivethitha@24
 
 # Tag and push the image to Docker Hub
 docker tag bootstrap-bootcamp nivethitha24/bootstrap-bootcamp
